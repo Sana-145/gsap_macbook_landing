@@ -1,7 +1,6 @@
 // This file is used for rendering both sizes of MacBook-14 and MacBook-16 and handle the transition between two models.
 // Detecting the size from user ui and animating the transition between the two models using gsap.
-// It will also add something known as PresentationControl which allow users rotate and inspect the macbook in 3D.
-
+// It will also add something known as PresentationControls which allow users to rotate and inspect the macbook in 3D.
 import React, {useRef} from 'react';
 import {PresentationControls} from "@react-three/drei";
 import gsap from "gsap";
