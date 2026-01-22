@@ -46,9 +46,8 @@ const Showcase = () => {
                             </p>
                             <p>
                                 It drives Apple Intelligence on iPad Pro, so you can write, create, and accomplish more
-                                with ease.All in a design that's unbelievably thin,light and powerful.
-                            </p>
-                            <p>
+                                with ease. All in a design that's unbelievably thin, light and powerful.
+                            </p>                            <p>
                                 A brand-new display engine delivers breathtaking precision, color accuracy, and
                                 brightness.And a next-gen GPU with hardware-accelerated ray tracing brings console-level
                                 graphics to your fingertips.
